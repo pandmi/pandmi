@@ -21,6 +21,11 @@ I am a Digital Marketing Analyst and Consultant from Berlin, with a background i
 - 💬 Ask me about SEM, Social Media Marketing, RTB and Programmatic
 - 🌱 Learning artificial intelligence in depth
 <br>
+
+![](image1.jpg)
+
+<br>
+
 ### Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dmpankov/)
@@ -29,7 +34,6 @@ I am a Digital Marketing Analyst and Consultant from Berlin, with a background i
 
 <br>
 
-![](image1.jpg)
 
 <br>
 <br>
