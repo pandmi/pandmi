@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
 ### Hello World 👋
 I am a Digital Marketing Analyst and Consultant from Berlin, with a background in modern communication studies and knowledge of mathematical statistics, expertise in collecting and proceeding data, descriptive and explanatory analysis, building machine learning models, creating data visualization, translating insights into client recommendations.
 - 🔭 Working on multiple marketing analytics and automatization project using Python, Tensorflow, FastAPI, Docker and Jupyter Lab
@@ -25,9 +24,7 @@ I am a Digital Marketing Analyst and Consultant from Berlin, with a background i
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dmpankov/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](	https://medium.com/@pandmi)
-<!-- [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal) -->
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/dmitry.pankov/)
-<!-- [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694) -->
 <br>
 <br>
 <!-- ## Expertise
