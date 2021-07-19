@@ -22,13 +22,14 @@ I am a Digital Marketing Analyst and Consultant from Berlin, with a background i
 - 🌱 Learning artificial intelligence in depth
 <br>
 
-![](image1.jpg)
-
 ### Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dmpankov/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](	https://medium.com/@pandmi)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/dmitry.pankov/)
+
+
+![](image1.jpg)
 
 <br>
 <br>
