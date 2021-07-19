@@ -23,7 +23,6 @@ I am a Digital Marketing Analyst and Consultant from Berlin, with a background i
 <br>
 
 ![](image1.jpg)
-
 <br>
 
 ### Connect with me
